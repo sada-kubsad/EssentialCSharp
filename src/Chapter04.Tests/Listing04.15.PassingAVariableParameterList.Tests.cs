@@ -1,8 +1,8 @@
-﻿using System;
+using System;
 using System.IO;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_14.Tests
+namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter04.Listing04_15.Tests
 {
     [TestClass]
     public class ProgramTests
